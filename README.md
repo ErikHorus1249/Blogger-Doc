@@ -25,8 +25,10 @@ Có rất nhiều trang cung cấp sẵn các template đa dạng về hình th�
 ![](https://i.imgur.com/4nk4u0M.png)
 
 
+
  Mở file `.xml` bằng một trình soạn thảo bất kì và `copy` nội dung của nó 
  Quay lại trang **blogger** vào mục `Chủ đề` chọn `Sao lưu/khôi phục`
- sau đó parse code vào khung `Chỉnh sửa html`
+ sau đó parse code vào khung `Chỉnh sửa html`.
+ 
 
 ![](https://i.imgur.com/uimWsQq.png)
