@@ -85,7 +85,23 @@ Sau đó thay đường dẫn :
 bằng đường dẫn tới page facebook của bạn.
 
 ![](https://i.imgur.com/RT9h8bg.png)
+**c. Chèn trang Facebook liên hệ và khung video** 
 
+Tạo mục hiển thị trang facebook trong phần `chỉnh sửa bố cục` chọn `HTML/JavaScript` 
+Thêm đoạn code sau :
 
+    <center><div class="fb-page" data-href="https://www.facebook.com/AdobeIllustrator" data-width="360" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"></div></center>
+
+Thay đổi link tại `href` bằng link trang facebook của bạn để hoàn thành.
+
+![](https://i.imgur.com/NBlmPEE.png)
+
+Tạo mục hiển thị video bằng cách truy cập **[Youtube](youtube.com)** tại video bạn muốn hiển thị chọn `share` -> `Nhúng`
+
+![](https://i.imgur.com/L3SGM4H.png)
+
+sau đó sao chép link vào phần tạo tiện ích ở trên.
+
+![](https://i.imgur.com/V9clZkz.png)
 
 
