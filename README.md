@@ -1,3 +1,4 @@
+
 By **[Erik Horus](https://github.com/ErikHorus1249)**
 Date : 14/05/2020 
 ![Top 10 trang web cho tạo blog đơn giản miễn phí tốt nhất. - WEBICO ...](https://blog.webico.vn/wp-content/uploads/2016/04/Blogger-blogging-platform.jpg)
@@ -9,19 +10,22 @@ Date : 14/05/2020
 - Ứng dụng các kiến thức cơ bản của môn lập trình web như html/css , javascript để tùy biến sâu trên trang khởi tạo.
 
 ## II. Khởi tạo
-1. Tạo một tài khoản để sử dụng **[Blogger](https://www.blogger.com/about/?r=1-null_user)** qua các bước đơn giản, quan trọng là bạn phải có một tài khoản **Google** .
-2. Tạo một blogspot 
-Chọn vào mục `blog mới` để tạo .
+**1. Tạo một tài khoản để sử dụng** **[Blogger](https://www.blogger.com/about/?r=1-null_user)** qua các bước đơn giản, quan trọng là bạn phải có một tài khoản **Google** .
+**2. Tạo một blogspot** 
+Chọn vào mục `blog mới` để tạo . Điền thông tin cơ bản như tên của blog và địa chỉ truy cập.
+
 ![](https://i.imgur.com/WOqPHf3.png)
 
-- 3. Tìm một template có sẵn để sử dụng cho blog của bạn
+**3. Tìm một template có sẵn để sử dụng cho blog**
 Có rất nhiều trang cung cấp sẵn các template đa dạng về hình thức và mục đích sử dụng mà bạn có thể tìm thấy trên Google như : 
 	- **[Way2themes](https://www.way2themes.com/)**
 	- ![Way2themes | Free Blogger Templates](https://1.bp.blogspot.com/-Ix3jJT7n6LM/WNd2dr5hJcI/AAAAAAAACw8/FQ1ryBsMNdYfqbQCDpnZHi9RHtvQIquOwCK4B/s1600/logo.png)
 	- [**Btemplates**](https://btemplates.com/)
-	- ![](https://btemplates.com/wp-content/themes/peualiztli/images/blogger-templates-btemplates.png)
+	- ![](https://btemplates.com/wp-content/themes/peualiztli/images/blogger-templates-btemplates.png
 
-- 4. Giải nén file zip và tiến hành chỉnh sửa code của trang
+Ở blog hiện tại thì mình sử dụng template **Celfie** của Way2themes
+
+**4. Giải nén file zip và tùy chỉnh trang**
 
 ![](https://i.imgur.com/4nk4u0M.png)
 
@@ -31,6 +35,7 @@ Có rất nhiều trang cung cấp sẵn các template đa dạng về hình th�
  Quay lại trang **blogger** vào mục `Chủ đề` chọn `Sao lưu/khôi phục`
  sau đó paste code vào khung `Chỉnh sửa html`.
  
+ 
 
 ![](https://i.imgur.com/uimWsQq.png)
 
@@ -39,9 +44,16 @@ Có rất nhiều trang cung cấp sẵn các template đa dạng về hình th�
 Bố cục có thể tùy chỉnh một cách dễ dàng như thay đổi vị trí các phần của trang thêm các tính năng như **bản đồ**, **khung chat messenger**, . . .
 
 ![](https://i.imgur.com/T8ONO5n.png)
+**a. Chèn logo cho trang** 
+Hãy tạo trước một logo bạn có thể tạo logo từ [**hatchful**](https://hatchful.shopify.com/)
+![Hatchful](https://cdn.shopify.com/shopifycloud/hatchful-web/assets/5332ffcb554a06a5ecd7351a5309f011.svg)
+Sau đó vào phần `header logo` được tạo từ phần thêm tiện ích sau đó post ảnh từ máy tính lên là xong.
+
+![](https://i.imgur.com/cTUQsyz.png)
+![](https://i.imgur.com/4uFqH2h.png)
 
 
-ví dụ thêm khung chat : chọn `Thêm tiện ích` -> `HTML/JavaScipt`
+**b.Thêm khung chat** : chọn `Thêm tiện ích` -> `HTML/JavaScipt`
 
 
 ![](https://i.imgur.com/9GuPrFZ.png)
@@ -70,16 +82,10 @@ Sau đó thay đường dẫn :
 
     https://www.facebook.com/kungfuexcel/  
     https://m.me/kungfuexcel/
-bằng đường dẫn tới page facebook của bạn là xong.
+bằng đường dẫn tới page facebook của bạn.
 
 ![](https://i.imgur.com/RT9h8bg.png)
 
-Chèn logo cho trang : 
-Hãy tạo trước một logo bạn có thể cài logo từ [**hatchful**](https://hatchful.shopify.com/)
-![Hatchful](https://cdn.shopify.com/shopifycloud/hatchful-web/assets/5332ffcb554a06a5ecd7351a5309f011.svg)
 
 
-Sau đó vào phần header logo được tạo từ phần thêm tiện ích sau đó post ảnh từ máy tính lên là xong.
 
-![](https://i.imgur.com/cTUQsyz.png)
-![](https://i.imgur.com/4uFqH2h.png)
