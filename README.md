@@ -126,6 +126,12 @@ Hãy sử dụng `inspect element` của trình duyệt và một trình soạn 
 Để thêm một bài đăng vào trang thì hãy vào mục bài đăng mới sau đó thêm tên của bài đăng, nội dung và ảnh kèm theo.
 
 ![](https://i.imgur.com/vcqjsl6.png)
+![](https://i.imgur.com/ErpeICF.png)
+### 4. Tổng kết 
+Trên đây là toàn bộ quá trình tạo ra một trang blog sử dụng blogger của Google. Các bước đều được ghi chép và có ảnh minh họa rõ ràng.
 
-
+### Tham khảo 
+- [**imgur**](https://imgur.com/) 
+- [**Thêm tính năng chat**](https://kungfuexcel.blogspot.com/2018/09/tich-hop-facebook-messenger-live-chat-vao-blogger.html?m=1)
+- [**Blogger**](https://www.blogger.com)
 
