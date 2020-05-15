@@ -1,4 +1,5 @@
 
+
 By **[Erik Horus](https://github.com/ErikHorus1249)**
 Date : 14/05/2020 
 ![Top 10 trang web cho tạo blog đơn giản miễn phí tốt nhất. - WEBICO ...](https://blog.webico.vn/wp-content/uploads/2016/04/Blogger-blogging-platform.jpg)
@@ -40,7 +41,7 @@ Có rất nhiều trang cung cấp sẵn các template đa dạng về hình th�
 ![](https://i.imgur.com/uimWsQq.png)
 
 ## III. Tùy chỉnh
-1. Bố cục 
+### 1. Bố cục 
 Bố cục có thể tùy chỉnh một cách dễ dàng như thay đổi vị trí các phần của trang thêm các tính năng như **bản đồ**, **khung chat messenger**, . . .
 
 ![](https://i.imgur.com/T8ONO5n.png)
@@ -103,5 +104,28 @@ Tạo mục hiển thị video bằng cách truy cập **[Youtube](youtube.com)*
 sau đó sao chép link vào phần tạo tiện ích ở trên.
 
 ![](https://i.imgur.com/V9clZkz.png)
+**d. Chèn trang Google map** 
+Trước tiên truy cập vào trang [**Google Maps**](https://www.google.com/maps/@9.779349,105.6189045,11z?hl=vi-VN) Xác định vị trí của bạn sau đó chọn  `chia sẻ hoặc nhúng bản đồ`  
+
+![](https://i.imgur.com/gN16hdm.png)![](https://i.imgur.com/aGbmdo1.png)
+
+chọn `Thêm tiện ích` -> `HTML/JavaScipt` -> paste link nhúng bản đồ vào.
+
+
+
+![](https://i.imgur.com/9GuPrFZ.png)
+### 2. Sửa các mục bằng tiếng anh có sẵn của template
+
+Khi sử dụng template thì sẽ có những phần không cần thiết, màu sắc không ưng ý hoặc các đề nục bằng tiếng anh thì  có thể chỉnh sửa trực tiếp trên code của blog. 
+Hãy sử dụng `inspect element` của trình duyệt và một trình soạn thảo nào đó để sửa lại mã nguồn chủ yếu là **CSS**.
+
+![](https://i.imgur.com/8rDAv0i.png)
+
+### 3. Thêm bài viết cho blog 
+
+Để thêm một bài đăng vào trang thì hãy vào mục bài đăng mới sau đó thêm tên của bài đăng, nội dung và ảnh kèm theo.
+
+![](https://i.imgur.com/vcqjsl6.png)
+
 
 
